@@ -1,0 +1,2 @@
+1- iniciar
+    yarn test 
